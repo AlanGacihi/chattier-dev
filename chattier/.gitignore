@@ -97,6 +97,8 @@ bower_components
 .env
 
 
-
 # Sentry Config File
 .env.sentry-build-plugin
+
+# ngrok
+ngrok.yml
